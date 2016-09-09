@@ -11,13 +11,13 @@ body {
 	font-family:'Playball',cursive;
 }
 h1,h2,h3,h4,h5,h6 {
-	color:#333;
+	color:#3CB371;
 	line-height:1.4;
 	font-weight:600;
 }
 
 a,a:hover {
-	color:#92DD03 ;
+	color:#48D1CC ;
 	text-decoration: none;
 }
 img {max-width: 100%;}
